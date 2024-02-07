@@ -18,20 +18,5 @@ This Python application utilizes computer vision techniques to count the number 
 - NumPy: Utilized for numerical operations and array manipulations.
 - Scikit-learn: Specifically, the `pairwise` module is used to compute pairwise distances between points in two sets.
 
-### Usage
-
-1. **Installation:**
-    - Ensure you have Python installed on your system.
-    - Install the required dependencies using pip:
-        ```
-        pip install opencv-python scikit-learn numpy
-        ```
-
-2. **Execution:**
-    - Run the `finger_count.py` script using Python:
-        ```
-        python finger_count.py
-        ```
-    - Place your hand in front of the camera, and the application will display the count of fingers in real-time.
 
 
